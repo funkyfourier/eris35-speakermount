@@ -4,7 +4,7 @@
 
 These are 3D printable speaker wall mounts for [the Presonus ERIS E3.5 speakers](https://www.presonus.com/products/Eris-E35). They can be tiltet and rotated to allow for optimal listening angle.
 
-To build one them, you will need the following items:
+To build one of them, you will need the following items:
 
 ![All pieces](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-all-pieces_small.jpg)
 
@@ -31,7 +31,7 @@ If you have a slicer and printer which allows for color changing pauses, you can
 
 ![Fastener with internal washer](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-fastener_small.jpg)
 
-If you do so, I recommend to add an extra layer to implement sacrifical briding, as explained in [this video by Maker's Muse](https://youtu.be/RPijCjz9G1w?t=117). He does it in CAD, but I just did it directly in Prusa Slicer, although a bit cumbersome. 
+If you do so, I recommend to add an extra layer on top of the washer to implement sacrifical briding, as explained in [this video by Maker's Muse](https://youtu.be/RPijCjz9G1w?t=117). He does it in CAD, but I just did it directly in Prusa Slicer, although a bit cumbersome. 
 
 ![Fastener in slicer with sacrificial support](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-fastener-slicer.png)
 
@@ -41,13 +41,11 @@ The speaker frame itself should be printed in this orientation:
 
 No supports are needed. 
 
-You may want to do a couple of test prints before printing the frames, since the dimensions might be off depending on how your (and my) printer is set up and tuned.
+**You may want to do a couple of test prints before printing the frames, since the dimensions might be off depending on how your (and my) printer is set up and tuned.**
 
-The shelfes can be printed sideways, also without supports.
+The shelves can be printed sideways, also without supports.
 
 ![Shelf sideways in slicer](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-shelf-slicer.png)
-
-You may want to do some test prints, especially of the frame, before printing it all.
 
 If you know a little bit about [FreeCAD](https://www.freecadweb.org/) you may adjust some of the values in the spreadsheet, like screw hole sizes etc. Also, it is fully possible to adjust the frame for many other speakers, so remix away!
 
