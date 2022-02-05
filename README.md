@@ -2,6 +2,8 @@
 
 ![Mounted on wall with speaker](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-on-wall_small.jpg)
 
+![Fully assembled](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-fullyassembled_small.jpg)
+
 These are 3D printable speaker wall mounts for [the Presonus ERIS E3.5 speakers](https://www.presonus.com/products/Eris-E35). They can be tiltet and rotated to allow for optimal listening angle.
 
 To build one of them, you will need the following items:
