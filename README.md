@@ -1,6 +1,6 @@
 # 3D Printable Speaker Wall Mounts for PreSonus ERIS E3.5
 
-![Mounted on wall with speaker](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-on-wall_small.jpg)
+![Mounted on wall with speaker](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-on-wall2.jpg)
 
 ![Fully assembled](https://raw.githubusercontent.com/funkyfourier/eris35-speakermount/master/images/speakermount-fullyassembled_small.jpg)
 
